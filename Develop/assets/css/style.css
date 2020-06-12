@@ -75,7 +75,7 @@ article {
     margin-left: 20px;
 }
 
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -134,7 +134,7 @@ article {
     max-width: 150px;
 }
 
-section {
+#search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -161,7 +161,7 @@ section {
     color: #ffffff;
 }
 
-section img {
+#search-engine-optimization img {
     max-height: 200px;
 }
 
@@ -173,7 +173,7 @@ section img {
     max-height: 200px;
 }
 
-section h2 {
+#search-engine-optimization h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
